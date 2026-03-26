@@ -18,7 +18,8 @@ export default function App() {
   const PRODUTOS_FIXOS = [
     { id: 1, nome: "Metalix Cut", preco: 33154.73 },
     { id: 2, nome: "Usuário Adicional", preco: 5000 },
-    { id: 3, nome: "Pós Processador", preco: 8000 }
+    { id: 3, nome: "Pós Processador", preco: 8000 },
+	{ id: 4, nome: "JobTrack", preco: 5000 }
   ];
 
   const SERVICOS_FIXOS = [
