@@ -21,9 +21,10 @@ export default function App() {
 
   const produtosDB = [
     { id: 1, nome: "Metalix Cut", preco: 33154.73 },
-    { id: 2, nome: "Usuário Adicional", preco: 5000 },
-    { id: 3, nome: "Pós Processador", preco: 8000 },
-    { id: 4, nome: "JobTrack", preco: 5000 }
+    { id: 2, nome: "Aquisição Pós-Processador", preco: 5525.79 },
+    { id: 3, nome: "Licença adicional Metalix Cut", preco: 16577.36 },
+    { id: 4, nome: "JobTrack", preco: 11051.58 },
+	{ id: 5, nome: "Módulo - Cotação / Estimativa - Opção para Metalix Cut", preco: 3683.86 }
   ];
 
   const servicosDB = [
