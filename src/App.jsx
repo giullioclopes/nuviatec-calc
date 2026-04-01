@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-const SENHA_ADM = "1234";
+const SENHA_ADM = "Nuvi@tec2025";
 const precoHora = 250;
 
 const formatBRL = (v) =>
